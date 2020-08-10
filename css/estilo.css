@@ -42,6 +42,17 @@ h4 {
 
 }
 
+h5{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    background-color:rgb(18, 18, 18);
+   text-align: center;
+    border-radius: 20px;
+
+
+}
+
 p {
     font-family: 'Quicksand', sans-serif;
 
@@ -147,6 +158,9 @@ nav.navbar-transparente {
 
 
 @media screen and (max-width: 768px) {
+ 
+
+
     .desenvolvimento {
         margin: 0 auto;
         
